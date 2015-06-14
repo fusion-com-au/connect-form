@@ -1,1 +1,1 @@
-lib/connect-form.js
+require('./lib/connect-form.js');
